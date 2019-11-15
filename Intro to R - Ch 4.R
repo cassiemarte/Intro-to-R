@@ -251,6 +251,7 @@ View(theDF)
 
 # Summary of referencing data frame elements
 theDF[2:3]
+
 theDF[c(1,3)]
 theDF[3]
 theDF$Sport
